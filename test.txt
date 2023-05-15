@@ -1,0 +1,5 @@
+Activity 4 Egit - Development environment - Luka Nozadze
+
+Hi, this is my file test.txt of the Activity 4 wich consists in create a repository on git with eclipse.
+
+This part is the modification needed for the point 3 of the exercice.
